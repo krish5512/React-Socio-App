@@ -1,0 +1,26 @@
+.headerClass {
+  position: absolute;
+  width: 55%;
+  left: 45%;
+  top: 10%;
+}
+.signinClass {
+  position: absolute;
+  left: 35%;
+  top: 25%;
+}
+.signupClass {
+  position: absolute;
+  right: 35%;
+  top: 25%;
+}
+.signinBodyClass {
+  position: absolute;
+  top: 30%;
+  left: 30%;
+}
+.signupBodyClass {
+  position: absolute;
+  top: 30%;
+  right: 30%;
+}
